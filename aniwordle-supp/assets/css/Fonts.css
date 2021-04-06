@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Acme";
+    src: url("./fonts/Acme.ttf");
+}
+@font-face {
+    font-family: "Rubik";
+    src: url("./fonts/Rubik.ttf");
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url("./fonts/SourceSansPro.ttf");
+}
+@font-face {
+    font-family: "Averia Serif Libre";
+    src: url("./fonts/AveriaSerifLibre.ttf");
+}
+@font-face {
+    font-family: "Cabin";
+    src: url("./fonts/Cabin.ttf");
+
+}
